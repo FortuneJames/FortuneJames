@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FortuneJames
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on any front end jobs
+- 💞️ I’m looking to collaborate on any Baxk end jobs
 - 📫 How to reach me on what's app
 
 <!---
